@@ -520,3 +520,51 @@ footer ul li a:hover {
 .bx-wrapper {
 	margin: 0 auto 40px;
 }
+
+.nav-item > span {
+    margin-top: -5px;
+    display: inline-block;
+    float: left;
+}
+
+.nav-item > span > a > img {
+    width: 30px;
+}
+
+.icon-price-action {
+    background-size: 100%;
+    background-image: url('../img/icons/price-action.png');
+    background-repeat: no-repeat;
+}
+
+.icon-portfolio-checkup {
+    background-size: 100%;
+    background-image: url('../img/icons/portfolio-checkup.png');
+    background-repeat: no-repeat;
+}
+
+.icon-protrade {
+    background-image: url('../img/icons/protrade.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.icon-news-event {
+    background-size: 100%;
+    background-image: url('../img/icons/news-event.png');
+    background-repeat: no-repeat;
+}
+
+.icon-shake-hand {
+    background-size: 100%;
+    background-image: url('../img/icons/shake-hand.png');
+    background-repeat: no-repeat;
+}
+
+#layanan .icon-price-action, #layanan .icon-portfolio-checkup, #layanan .icon-protrade, #layanan .icon-news-event, #layanan .icon-shake-hand {
+    background-size: 50%;
+}
+
+.block {
+    display: inline-block;
+}
