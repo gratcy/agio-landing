@@ -562,9 +562,15 @@ footer ul li a:hover {
 }
 
 #layanan .icon-price-action, #layanan .icon-portfolio-checkup, #layanan .icon-protrade, #layanan .icon-news-event, #layanan .icon-shake-hand {
-    background-size: 50%;
+    background-size: 70%;
 }
 
 .block {
     display: inline-block;
 }
+.download-btn > img {
+    width: 200px
+}
+
+
+
