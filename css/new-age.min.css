@@ -572,5 +572,29 @@ footer ul li a:hover {
     width: 200px
 }
 
+@media only screen and (max-width: 768px) {
+    #layanan .icon-price-action, #layanan .icon-portfolio-checkup, #layanan .icon-protrade, #layanan .icon-news-event, #layanan .icon-shake-hand {
+        background-size: 40%;
+    }
+    #partners .icon-shake-hand, #partners .icon-protrade {
+        max-width: 35%!important;
+    }
+    .container-content {
+        width: 95%; 
+    }
+    .mx-auto > p > img {
+        width: 80%;
+    }
+    .masthead .left {
+        padding: 5px;
+    }
+    header.masthead {
+        padding-top: 80px;
+        padding-bottom: 25px;
+    }
+    section {
+        padding: 25px 0;
+    }
+}
 
 
