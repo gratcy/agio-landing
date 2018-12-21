@@ -74,7 +74,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand > img{
-	width: 100px
+    width: 100px
 }
 #mainNav .navbar-brand {
     color: #7ed221;
@@ -278,8 +278,8 @@ section.features .device-container {
 }
 
 section.features .feature-item {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 55px;
+    padding-bottom: 55px;
     text-align: center
 }
 
@@ -424,7 +424,7 @@ footer ul li a:hover {
   background: -webkit-linear-gradient(#000, #000);
   background: linear-gradient(#000, #000); }
 .text-white {
-	color: #fff;
+    color: #fff;
 }
 .bg-primary {
     background: #7ed221;
@@ -468,27 +468,27 @@ footer ul li a:hover {
     padding: 15px 45px
 }
 .container-content {
-	width: 80%;
+    width: 80%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
 }
 .border-green {
-	border-top: 1px solid #7ed221;
+    border-top: 1px solid #7ed221;
 }
 .text-green {
-	color: #7ed221;
+    color: #7ed221;
 }
 .left {
-	float: left;
+    float: left;
 }
 .clear {
-	clear: both;
+    clear: both;
 }
 .navbar-brand {
-	padding-top: 0;
-	padding-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .btn-success {
@@ -498,27 +498,27 @@ footer ul li a:hover {
 }
 
 .soc_med{
-	color: #fff;	
+    color: #fff;    
     position: fixed;
     top: 30%;
     right: 50px;
     width: 49px;
     z-index: 10;
-	font-size: 50px;
+    font-size: 50px;
 }
 .soc_med ul li{
-	list-style: none;
+    list-style: none;
 }
 .soc_med a {
-	color: #fff;
+    color: #fff;
 }
 @media only screen and (max-width: 600px) {
-	.soc_med{
-		font-size: 30px;
-	}
+    .soc_med{
+        font-size: 30px;
+    }
 }
 .bx-wrapper {
-	margin: 0 auto 40px;
+    margin: 0 auto 40px;
 }
 
 .nav-item > span {
